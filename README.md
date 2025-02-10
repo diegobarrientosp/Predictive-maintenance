@@ -9,7 +9,7 @@ This repository showcases my learning journey in applying **machine learning tec
 
 ## Repository Structure
 - `notebook/`: Contains the Jupyter Notebook with all code and analysis.
-  - **`predictive_maintenance.ipynb`**: The main notebook where models are trained, evaluated, and compared.
+  - **`predictive maintenance.ipynb`**: The main notebook where models are trained, evaluated, and compared.
 - `README.md`: Overview of the project and its objectives.
 
 ## My Learning Goals
